@@ -1,0 +1,64 @@
+{
+    "products": [
+        {
+            "name": "Thuốc chống lười",
+            "price": 400,
+            "desc": "Mo ta thuốc",
+            "id": "123"
+        },
+        {
+            "name": "Thuốc chống buồn ngủ",
+            "price": 200,
+            "desc": "Mo ta thuốc",
+            "id": "qPy2YrZ"
+        },
+        {
+            "name": "Thuốc chống buồn ngủ",
+            "price": 200,
+            "desc": "Mo ta thuốc",
+            "id": "aVhbjvH"
+        },
+        {
+            "name": "Thuốc chống buồn ngủ",
+            "price": 200,
+            "desc": "Mo ta thuốc",
+            "id": "xySI5oS"
+        },
+        {
+            "name": "Thuốc chống buồn ngủ",
+            "price": 200,
+            "desc": "Mo ta thuốc",
+            "id": "CaGoLcw"
+        },
+        {
+            "name": "Thuốc chống buồn ngủ",
+            "price": 200,
+            "desc": "Mo ta thuốc",
+            "id": "cupMxnG"
+        },
+        {
+            "name": "Thuốc chống buồn ngủ",
+            "price": 200,
+            "desc": "Mo ta thuốc",
+            "id": "7VkN21W"
+        },
+        {
+            "name": "Thuốc chống buồn ngủ",
+            "price": 200,
+            "desc": "Mo ta thuốc",
+            "id": "mEZ5p75"
+        },
+        {
+            "name": "Thuốc chống buồn ngủ",
+            "price": 200,
+            "desc": "Mo ta thuốc",
+            "id": "ikqtCxZ"
+        },
+        {
+            "name": "Thuốc chống buồn ngủ",
+            "price": 200,
+            "desc": "Mo ta thuốc",
+            "id": "rGRjqJG"
+        }
+    ]
+}
